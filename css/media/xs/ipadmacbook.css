@@ -1,0 +1,26 @@
+
+div.ipad{
+    width: 100%;
+    height: 450px;
+    background-image: url(../../../images/ipad/ipad3.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position-y: bottom;
+    background-position-x:center;
+}
+div.macbook{
+    width: 100%;
+    height: 450px;
+    background-image: url(../../../images/macbook/macbook3.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position-y: bottom;
+    background-position-x:center;
+}
+
+
+
+   
+
+
+   

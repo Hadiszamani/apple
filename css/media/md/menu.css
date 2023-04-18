@@ -1,0 +1,37 @@
+div.menu{
+    background-color: #434344;
+    height: 44px;
+    width: 100%;
+}
+div.menu>nav>ul{
+    line-height: 44px;
+    font-size: 14px;
+    display: flex;
+    justify-content: space-evenly;
+}
+div.menu>nav>ul>li{
+    list-style: none;
+}
+div.menu>nav>ul>li>div.submenu{
+    z-index: 2;
+    width: 60%;  
+    height: 550px;
+    background-color: #434344;
+    position: absolute;
+    right: calc(50% - calc(100%)/2);
+    display: block;
+    position: fixed;
+  }
+  div.menu>nav>ul>li:hover>div.submenu{
+      display: block;
+  }
+  div.menu>nav>ul>li>div.submenu>div>div>ul.title{
+    list-style: none;
+    color: whitesmoke;
+  }
+  div.menu>nav>ul>li>div.submenu>div>div>ul.title>li{
+    color: gray;
+  }
+  div.menu>nav>ul>li>div.submenu>div>div>ul.list{
+    list-style: none;
+  }

@@ -1,0 +1,28 @@
+div.homeairpod{
+    display: flex;
+}
+div.homepod{
+    width: 100%;
+    height: 550px;
+    background-image: url(../../../images/homepod/homepod2.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position-y: bottom;
+    background-position-x:center;
+}
+div.airpod{
+    width: 100%;
+    height: 550px;
+    background-image: url(../../../images/airpod/airpod2.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position-y: bottom;
+    background-position-x:center;
+}
+
+
+
+   
+
+
+   

@@ -1,0 +1,26 @@
+
+div.fitness{
+    width: 100%;
+    height: 450px;
+    background-image: url(../../../images/fitness/fitness3.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position-y: bottom;
+    background-position-x:center;
+}
+div.card{
+    width: 100%;
+    height: 450px;
+    background-image: url(../../../images/card/card3.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position-y: bottom;
+    background-position-x:center;
+}
+
+
+
+   
+
+
+   

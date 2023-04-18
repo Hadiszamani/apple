@@ -1,0 +1,28 @@
+div.ipadmacbook{
+    display: flex;
+}
+div.ipad{
+    width: 100%;
+    height: 550px;
+    background-image: url(../../../images/ipad/ipad2.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position-y: bottom;
+    background-position-x:center;
+}
+div.macbook{
+    width: 100%;
+    height: 550px;
+    background-image: url(../../../images/macbook/macbook2.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position-y: bottom;
+    background-position-x:center;
+}
+
+
+
+   
+
+
+   

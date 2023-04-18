@@ -1,0 +1,8 @@
+@import url(../setting/setting.css);
+@import url(../css/media/2xl/2xl.css) screen and (min-width:1400px);
+@import url(../css/media/xl/xl.css) screen and (min-width:1200px) and (max-width:1400px);
+@import url(../css/media/lg/lg.css) screen and (min-width:992px) and (max-width:1200px);
+@import url(../css/media/md/md.css) screen and (min-width:768px) and (max-width:992px);
+@import url(../css/media/sm/sm.css) screen and (min-width:576px) and (max-width:768px);
+@import url(../css/media/xs/xs.css) screen and (max-width:576px);
+@import url(./swiper.css);
